@@ -4,6 +4,7 @@ SMU Week 15 Homework - Leaflet Challenge
 The purpose of this challenge was to create a visualization to represent earthquake data from the United States Geological Survey.
 
 Visit this link to view the webpage: https://allyb3.github.io/leaflet-challenge-15/
+
 The marker size represents magnitude and the color represents depth.
 
 Sources:
